@@ -1,7 +1,5 @@
 site_name: 'blitzy-xla'
 use_directory_urls: false
-nav:
-  - Home: index.md
 plugins:
   - techdocs-core
   - mermaid2
